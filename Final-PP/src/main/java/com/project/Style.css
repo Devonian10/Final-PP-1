@@ -1,0 +1,21 @@
+.button{
+    -fx-font-weight: bold;
+    -fx-color: rgb(10, 10, 10);
+    -fx-background-radius : 0;
+    -fx-border-color:rgb(43, 42, 42);
+}
+#sum{
+    -fx-color : rgb(255, 238, 0)
+}
+#purple{
+    -fx-color : rgb(112, 11, 133)
+}
+#clear{
+    -fx-color : rgb(243, 0, 0)
+}
+.gridpane{
+    -fx-color: grey ;
+}
+.label{
+    -fx-color : white;
+}
